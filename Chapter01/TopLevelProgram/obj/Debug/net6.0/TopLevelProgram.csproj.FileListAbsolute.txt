@@ -1,0 +1,14 @@
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.exe
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.deps.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.runtimeconfig.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfoInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfo.cs
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\refint\TopLevelProgram.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.genruntimeconfig.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\ref\TopLevelProgram.dll

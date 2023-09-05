@@ -1,0 +1,14 @@
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\bin\Debug\net6.0\Variables.exe
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\bin\Debug\net6.0\Variables.deps.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\bin\Debug\net6.0\Variables.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\bin\Debug\net6.0\Variables.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\refint\Variables.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter02\Variables\obj\Debug\net6.0\ref\Variables.dll
