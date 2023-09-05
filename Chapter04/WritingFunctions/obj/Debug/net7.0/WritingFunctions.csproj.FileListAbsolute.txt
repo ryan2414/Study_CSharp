@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/bin/Debug/net7.0/WritingFunctions
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/bin/Debug/net7.0/WritingFunctions.deps.json
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/bin/Debug/net7.0/WritingFunctions.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/bin/Debug/net7.0/WritingFunctions.dll
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/bin/Debug/net7.0/WritingFunctions.pdb
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.dll
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/refint/WritingFunctions.dll
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.pdb
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/WritingFunctions.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/Chapter04/WritingFunctions/obj/Debug/net7.0/ref/WritingFunctions.dll
