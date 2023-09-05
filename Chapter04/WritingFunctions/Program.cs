@@ -4,8 +4,8 @@
 //decimal taxToPay = CalculateTax(149, "FR");
 //WriteLine($"You must pay {taxToPay} in tax.");
 //RunCardinalToOrdinal();
-RunFactorial();
-
+//RunFactorial();
+RunFibImperative();
 
 static void TimeTable(byte number)
 {
@@ -57,9 +57,14 @@ static decimal CalculateTax(decimal amount, string twoLetterRegionCode)
     return amount * rate;
 }
 
+/// <summary>
+/// 32비트 정수를 서수로 변환한다.
+/// </summary>
+/// <param name="number">1, 2, 3과 같은 기수</param>
+/// <returns>1st, 2nd, 3rd와 같은 서수</returns>
 static string CardinalToOrdinal(int number)
 {
-    switch(number)
+    switch (number)
     {
         case 11:
         case 12:
@@ -101,7 +106,7 @@ static int Factorial(int number)
     {
         checked
         {
-        return number * Factorial(number - 1);
+            return number * Factorial(number - 1);
 
         }
     }
@@ -111,6 +116,36 @@ static void RunFactorial()
 {
     for (int i = 0; i < 15; i++)
     {
-        WriteLine($"{i}! = {Factorial(i):N0}");
+        try
+        {
+            WriteLine($"{i}! = {Factorial(i):N0}");
+
+        }
+        catch (System.OverflowException)
+        {
+            WriteLine($"{i}! is too big for a 32-bit integer.");
+        }
+    }
+}
+
+static int FibImperative(int term)
+{
+    if (term == 1)
+    {
+        return 0;
+    }
+    else if (term == 2)
+    {
+        return 1;
+    }
+    else
+    {
+        return FibImperative(term - 1) + FibImperative(term - 2);
+    }
+}
+
+static void RunFibImperative() {
+    for (int i = 0; i <= 30; i++) {
+        WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.", CardinalToOrdinal(i), FibImperative(i));
     }
 }
