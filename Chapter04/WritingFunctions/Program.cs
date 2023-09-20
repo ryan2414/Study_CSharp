@@ -5,7 +5,8 @@
 //WriteLine($"You must pay {taxToPay} in tax.");
 //RunCardinalToOrdinal();
 //RunFactorial();
-RunFibImperative();
+//RunFibImperative();
+RunFibFunctional();
 
 static void TimeTable(byte number)
 {
@@ -144,8 +145,26 @@ static int FibImperative(int term)
     }
 }
 
-static void RunFibImperative() {
-    for (int i = 0; i <= 30; i++) {
+static void RunFibImperative()
+{
+    for (int i = 1; i <= 30; i++)
+    {
         WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.", CardinalToOrdinal(i), FibImperative(i));
+    }
+}
+
+static int FibFunctional(int term) =>
+    term switch
+    {
+        1 => 0,
+        2 => 1,
+        _ => FibFunctional(term - 1) + FibFunctional(term - 2)
+    };
+
+static void RunFibFunctional()
+{
+    for(int i = 1;i <= 30; i++)
+    {
+        WriteLine("The {0} term of the Fibonacci sequence is {1:N0}.", CardinalToOrdinal(i), FibFunctional(i));
     }
 }

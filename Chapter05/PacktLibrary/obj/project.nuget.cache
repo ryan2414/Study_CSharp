@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJTBVVN/Tk6dGJLzGhyGIb4+6uSZM+pXzgxiDHcDn4cXlGmakleCQCiFCpAHYo1ILj3NdgeEgGd14W2p3n6vww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackp\\OneDrive\\문서\\Study_CSharp\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jackp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

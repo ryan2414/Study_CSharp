@@ -1,0 +1,14 @@
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\bin\Debug\net7.0\RPCGame.exe
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\bin\Debug\net7.0\RPCGame.deps.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\bin\Debug\net7.0\RPCGame.runtimeconfig.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\bin\Debug\net7.0\RPCGame.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\bin\Debug\net7.0\RPCGame.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.AssemblyInfoInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.AssemblyInfo.cs
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.csproj.CoreCompileInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\refint\RPCGame.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\RPCGame.genruntimeconfig.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\RPCGame\RPCGame\obj\Debug\net7.0\ref\RPCGame.dll

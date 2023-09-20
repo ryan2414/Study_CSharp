@@ -1,0 +1,11 @@
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\Chapter04\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll
