@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/bin/Debug/net7.0/TestRPG
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/bin/Debug/net7.0/TestRPG.deps.json
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/bin/Debug/net7.0/TestRPG.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/bin/Debug/net7.0/TestRPG.dll
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/bin/Debug/net7.0/TestRPG.pdb
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.dll
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/refint/TestRPG.dll
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.pdb
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/TestRPG.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/TestRPG/TestRPG/obj/Debug/net7.0/ref/TestRPG.dll
