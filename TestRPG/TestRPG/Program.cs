@@ -1,5 +1,6 @@
 ﻿namespace TestRPG;
 
+// 객체(OOP: Object Oriented Programming)
 class Program
 {
     enum ClassType
@@ -117,6 +118,7 @@ class Program
             if (monster.hp <= 0)
             {
                 Console.WriteLine("승리했습니다.");
+                Console.WriteLine($"남은 체력: {player.hp}");
                 break;
             }
 
@@ -185,6 +187,7 @@ class Program
 
     }
 
+    // 절차(procedure) 지향
     static void Main(string[] args)
     {
         ClassType choice = ClassType.None;
@@ -192,15 +195,12 @@ class Program
         while (true)
         {
             choice = ChooseClass();
-            if (choice != ClassType.None)
-            {
-                //캐릭터 생성
-                Player player;
-                CreatePlayer(choice, out player);
-
-                EnterGame(ref player);
-                //필드로 가서 몬스터랑 싸운다. 
-            }
+            if (choice == ClassType.None)
+                continue;
+            //캐릭터 생성
+            Player player;
+            CreatePlayer(choice, out player);
+            EnterGame(ref player);
         }
     }
 }

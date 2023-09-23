@@ -1,0 +1,14 @@
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\bin\Debug\net7.0\OOP.exe
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\bin\Debug\net7.0\OOP.deps.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\bin\Debug\net7.0\OOP.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\bin\Debug\net7.0\OOP.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\refint\OOP.dll
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.pdb
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+C:\Users\jackp\OneDrive\문서\Study_CSharp\OOP\OOP\obj\Debug\net7.0\ref\OOP.dll
