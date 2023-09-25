@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/Static/bin/Debug/net7.0/Static
+/Users/leeseungjae/Study_CSharp/Static/bin/Debug/net7.0/Static.deps.json
+/Users/leeseungjae/Study_CSharp/Static/bin/Debug/net7.0/Static.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/Static/bin/Debug/net7.0/Static.dll
+/Users/leeseungjae/Study_CSharp/Static/bin/Debug/net7.0/Static.pdb
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.dll
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/refint/Static.dll
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.pdb
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/Static.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/Static/obj/Debug/net7.0/ref/Static.dll
