@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/TextRPG2/bin/Debug/net7.0/TextRPG2
+/Users/leeseungjae/Study_CSharp/TextRPG2/bin/Debug/net7.0/TextRPG2.deps.json
+/Users/leeseungjae/Study_CSharp/TextRPG2/bin/Debug/net7.0/TextRPG2.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/TextRPG2/bin/Debug/net7.0/TextRPG2.dll
+/Users/leeseungjae/Study_CSharp/TextRPG2/bin/Debug/net7.0/TextRPG2.pdb
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.dll
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/refint/TextRPG2.dll
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.pdb
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/TextRPG2.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/TextRPG2/obj/Debug/net7.0/ref/TextRPG2.dll
