@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/Array2/bin/Debug/net7.0/Array2
+/Users/leeseungjae/Study_CSharp/Array2/bin/Debug/net7.0/Array2.deps.json
+/Users/leeseungjae/Study_CSharp/Array2/bin/Debug/net7.0/Array2.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/Array2/bin/Debug/net7.0/Array2.dll
+/Users/leeseungjae/Study_CSharp/Array2/bin/Debug/net7.0/Array2.pdb
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.dll
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/refint/Array2.dll
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.pdb
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/Array2.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/Array2/obj/Debug/net7.0/ref/Array2.dll

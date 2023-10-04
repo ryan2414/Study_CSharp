@@ -1,0 +1,11 @@
+/Users/leeseungjae/Study_CSharp/다차원배열/bin/Debug/net7.0/다차원배열
+/Users/leeseungjae/Study_CSharp/다차원배열/bin/Debug/net7.0/다차원배열.dll
+/Users/leeseungjae/Study_CSharp/다차원배열/bin/Debug/net7.0/다차원배열.pdb
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.dll
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/refint/다차원배열.dll
+/Users/leeseungjae/Study_CSharp/다차원배열/obj/Debug/net7.0/다차원배열.pdb
