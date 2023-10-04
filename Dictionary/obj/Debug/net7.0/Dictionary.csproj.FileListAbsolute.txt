@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/leeseungjae/Study_CSharp/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/leeseungjae/Study_CSharp/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/leeseungjae/Study_CSharp/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll

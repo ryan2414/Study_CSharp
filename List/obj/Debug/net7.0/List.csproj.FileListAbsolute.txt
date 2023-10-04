@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/List/bin/Debug/net7.0/List
+/Users/leeseungjae/Study_CSharp/List/bin/Debug/net7.0/List.deps.json
+/Users/leeseungjae/Study_CSharp/List/bin/Debug/net7.0/List.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/List/bin/Debug/net7.0/List.dll
+/Users/leeseungjae/Study_CSharp/List/bin/Debug/net7.0/List.pdb
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.dll
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/refint/List.dll
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.pdb
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/List.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/List/obj/Debug/net7.0/ref/List.dll
