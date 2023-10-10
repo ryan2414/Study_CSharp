@@ -1,0 +1,15 @@
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/leeseungjae/Study_CSharp/Exception/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
